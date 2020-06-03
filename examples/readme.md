@@ -121,7 +121,7 @@ Template that demonstrates provisioning wildcard certificates in both us-east-1 
 
 [templates/wildcard-certs.yml](templates/wildcard-certs.yml)
 
-## custom account creation worflow
+## custom account creation workflow
 
 Serverless project that demonstrate how to customize and extern the account creation process using CloudWatch/ EventBridge event rules and StepFunctions
 
